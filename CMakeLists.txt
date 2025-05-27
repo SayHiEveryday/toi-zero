@@ -3,4 +3,4 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled A3/A3-008.c)
+add_executable(untitled A3/A3-018.c)
